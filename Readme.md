@@ -10,4 +10,6 @@ I findout that zooming actually work , especially those between 0.75-1.0 compare
 
 Also ensembles works a lot.
 
+check out this [post](https://medium.com/@steveoni/tricks-for-improving-your-image-classification-model-cd1f588602ba) for some tricks you can use. most of this tricks can be done easily with fastai
+
 
